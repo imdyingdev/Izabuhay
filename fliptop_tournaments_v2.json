@@ -1,0 +1,1694 @@
+[
+  {
+    "tournament_name": "Isabuhay 2013",
+    "year": "2013",
+    "url": "https://www.fliptop.com.ph/tournaments/isabuhay-2013",
+    "champion": "Aklas",
+    "total_participants": 16,
+    "all_emcees": [
+      "Sinio",
+      "Batang Rebelde",
+      "Andy G",
+      "Flipzydot1",
+      "Jade Wunn",
+      "Ranieboy",
+      "J-Lem",
+      "Aklas",
+      "Rudic",
+      "Juan Lazy",
+      "Asero",
+      "Flict-G",
+      "Goriong Talas",
+      "Sparo",
+      "BLKD",
+      "Gin"
+    ],
+    "rounds": {
+      "Final": [
+        {
+          "id": 322,
+          "emcee_blue": "Aklas",
+          "emcee_red": "BLKD",
+          "winner": "Aklas",
+          "score": "6-1"
+        }
+      ],
+      "Semifinals": [
+        {
+          "id": 304,
+          "emcee_blue": "Flict-G",
+          "emcee_red": "BLKD",
+          "winner": "BLKD",
+          "score": "5-0"
+        },
+        {
+          "id": 303,
+          "emcee_blue": "Aklas",
+          "emcee_red": "Sinio",
+          "winner": "Aklas",
+          "score": "5-0"
+        }
+      ],
+      "Quarter Semifinals": [
+        {
+          "id": 298,
+          "emcee_blue": "Andy G",
+          "emcee_red": "Sinio",
+          "winner": "Sinio",
+          "score": "4-1"
+        },
+        {
+          "id": 297,
+          "emcee_blue": "Flict-G",
+          "emcee_red": "Rudic",
+          "winner": "Flict-G",
+          "score": "5-0"
+        },
+        {
+          "id": 294,
+          "emcee_blue": "BLKD",
+          "emcee_red": "Goriong Talas",
+          "winner": "BLKD",
+          "score": "5-0"
+        },
+        {
+          "id": 293,
+          "emcee_blue": "Aklas",
+          "emcee_red": "Jade Wunn",
+          "winner": "Aklas",
+          "score": "5-0"
+        }
+      ],
+      "Quarters": [
+        {
+          "id": 288,
+          "emcee_blue": "Aklas",
+          "emcee_red": "J-Lem",
+          "winner": "Aklas",
+          "score": "4-1"
+        },
+        {
+          "id": 287,
+          "emcee_blue": "Flict-G",
+          "emcee_red": "Asero",
+          "winner": "Flict-G",
+          "score": "5-0"
+        },
+        {
+          "id": 286,
+          "emcee_blue": "Batang Rebelde",
+          "emcee_red": "Sinio",
+          "winner": "Sinio",
+          "score": "4-0"
+        },
+        {
+          "id": 271,
+          "emcee_blue": "Juan Lazy",
+          "emcee_red": "Rudic",
+          "winner": "Rudic",
+          "score": "5-0"
+        },
+        {
+          "id": 267,
+          "emcee_blue": "BLKD",
+          "emcee_red": "Gin",
+          "winner": "BLKD",
+          "score": "5-0"
+        },
+        {
+          "id": 266,
+          "emcee_blue": "Goriong Talas",
+          "emcee_red": "Sparo",
+          "winner": "Goriong Talas",
+          "score": "5-0"
+        },
+        {
+          "id": 265,
+          "emcee_blue": "Andy G",
+          "emcee_red": "Flipzydot1",
+          "winner": "Andy G",
+          "score": "5-0"
+        },
+        {
+          "id": 264,
+          "emcee_blue": "Ranieboy",
+          "emcee_red": "Jade Wunn",
+          "winner": "Jade Wunn",
+          "score": "5-0"
+        }
+      ]
+    },
+    "total_matches_found": 15
+  },
+  {
+    "tournament_name": "Isabuhay 2014",
+    "year": "2014",
+    "url": "https://www.fliptop.com.ph/tournaments/isabuhay-2014",
+    "champion": "Batas",
+    "total_participants": 16,
+    "all_emcees": [
+      "Batas",
+      "Dopee",
+      "Rudic",
+      "Nikki",
+      "Rapido",
+      "Goriong Talas",
+      "Silent Effect",
+      "Hizuka",
+      "Notorious",
+      "Prosecutor Billy",
+      "Akt",
+      "Kris Delano",
+      "Melchrist",
+      "Maxford",
+      "Elbiz",
+      "Aklas"
+    ],
+    "rounds": {
+      "Final": [
+        {
+          "id": 403,
+          "emcee_blue": "Batas",
+          "emcee_red": "Melchrist",
+          "winner": "Batas",
+          "score": "7-0"
+        }
+      ],
+      "Semifinals": [
+        {
+          "id": 394,
+          "emcee_blue": "Batas",
+          "emcee_red": "Rapido",
+          "winner": "Batas",
+          "score": "5-2"
+        },
+        {
+          "id": 392,
+          "emcee_blue": "Melchrist",
+          "emcee_red": "Kris Delano",
+          "winner": "Melchrist",
+          "score": "7-0"
+        }
+      ],
+      "Quarter Semifinals": [
+        {
+          "id": 379,
+          "emcee_blue": "Batas",
+          "emcee_red": "Rudic",
+          "winner": "Batas",
+          "score": "7-0"
+        },
+        {
+          "id": 378,
+          "emcee_blue": "Prosecutor Billy",
+          "emcee_red": "Kris Delano",
+          "winner": "Kris Delano",
+          "score": "7-0"
+        },
+        {
+          "id": 372,
+          "emcee_blue": "Akt",
+          "emcee_red": "Kris Delano",
+          "winner": "Kris Delano",
+          "score": "4-1"
+        },
+        {
+          "id": 366,
+          "emcee_blue": "Rapido",
+          "emcee_red": "Hizuka",
+          "winner": "Rapido",
+          "score": "3-2"
+        }
+      ],
+      "Quarters": [
+        {
+          "id": 365,
+          "emcee_blue": "Elbiz",
+          "emcee_red": "Melchrist",
+          "winner": "Melchrist",
+          "score": "3-2"
+        },
+        {
+          "id": 355,
+          "emcee_blue": "Batas",
+          "emcee_red": "Dopee",
+          "winner": "Batas",
+          "score": "5-0"
+        },
+        {
+          "id": 354,
+          "emcee_blue": "Rudic",
+          "emcee_red": "Nikki",
+          "winner": "Rudic",
+          "score": "3-2"
+        },
+        {
+          "id": 353,
+          "emcee_blue": "Silent Effect",
+          "emcee_red": "Hizuka",
+          "winner": "Hizuka",
+          "score": "5-0"
+        },
+        {
+          "id": 340,
+          "emcee_blue": "Aklas",
+          "emcee_red": "Elbiz",
+          "winner": "Elbiz",
+          "score": "5-0"
+        },
+        {
+          "id": 339,
+          "emcee_blue": "Rapido",
+          "emcee_red": "Goriong Talas",
+          "winner": "Rapido",
+          "score": "3-2"
+        },
+        {
+          "id": 338,
+          "emcee_blue": "Notorious",
+          "emcee_red": "Prosecutor Billy",
+          "winner": "Prosecutor Billy",
+          "score": "5-0"
+        },
+        {
+          "id": 337,
+          "emcee_blue": "Maxford",
+          "emcee_red": "Melchrist",
+          "winner": "Melchrist",
+          "score": "4-1"
+        }
+      ]
+    },
+    "total_matches_found": 15
+  },
+  {
+    "tournament_name": "Isabuhay 2015",
+    "year": "2015",
+    "url": "https://www.fliptop.com.ph/tournaments/isabuhay-2015",
+    "champion": "Batas",
+    "total_participants": 16,
+    "all_emcees": [
+      "Dello",
+      "Badang",
+      "Sak Maestro",
+      "Fongger",
+      "Shehyee",
+      "Pistolero",
+      "M Zhayt",
+      "Romano",
+      "Sayadd",
+      "Kregga",
+      "Batas",
+      "Andy G",
+      "Thike",
+      "BLKD",
+      "Shernan",
+      "Rapido"
+    ],
+    "rounds": {
+      "Final": [
+        {
+          "id": 475,
+          "emcee_blue": "Batas",
+          "emcee_red": "Romano",
+          "winner": "Batas",
+          "score": "7-0"
+        }
+      ],
+      "Semifinals": [
+        {
+          "id": 446,
+          "emcee_blue": "Batas",
+          "emcee_red": "Shernan",
+          "winner": "Batas",
+          "score": "7-0"
+        },
+        {
+          "id": 445,
+          "emcee_blue": "Dello",
+          "emcee_red": "Romano",
+          "winner": "Romano",
+          "score": "5-2"
+        }
+      ],
+      "Quarter Semifinals": [
+        {
+          "id": 433,
+          "emcee_blue": "Batas",
+          "emcee_red": "Sayadd",
+          "winner": "Batas",
+          "score": "6-1"
+        },
+        {
+          "id": 432,
+          "emcee_blue": "Dello",
+          "emcee_red": "Sak Maestro",
+          "winner": "Dello",
+          "score": "7-0"
+        },
+        {
+          "id": 431,
+          "emcee_blue": "BLKD",
+          "emcee_red": "Shernan",
+          "winner": "Shernan",
+          "score": "4-3"
+        },
+        {
+          "id": 430,
+          "emcee_blue": "Romano",
+          "emcee_red": "Pistolero",
+          "winner": "Romano",
+          "score": "4-3"
+        }
+      ],
+      "Quarters": [
+        {
+          "id": 428,
+          "emcee_blue": "BLKD",
+          "emcee_red": "Thike",
+          "winner": "BLKD",
+          "score": "7-0"
+        },
+        {
+          "id": 427,
+          "emcee_blue": "Shehyee",
+          "emcee_red": "Pistolero",
+          "winner": "Pistolero",
+          "score": "5-3"
+        },
+        {
+          "id": 426,
+          "emcee_blue": "Sak Maestro",
+          "emcee_red": "Fongger",
+          "winner": "Sak Maestro",
+          "score": "5-0"
+        },
+        {
+          "id": 424,
+          "emcee_blue": "Sayadd",
+          "emcee_red": "Kregga",
+          "winner": "Sayadd",
+          "score": "4-3"
+        },
+        {
+          "id": 420,
+          "emcee_blue": "Batas",
+          "emcee_red": "Andy G",
+          "winner": "Batas",
+          "score": "7-0"
+        },
+        {
+          "id": 419,
+          "emcee_blue": "Dello",
+          "emcee_red": "Badang",
+          "winner": "Dello",
+          "score": "7-0"
+        },
+        {
+          "id": 417,
+          "emcee_blue": "Rapido",
+          "emcee_red": "Shernan",
+          "winner": "Shernan",
+          "score": "7-0"
+        },
+        {
+          "id": 416,
+          "emcee_blue": "M Zhayt",
+          "emcee_red": "Romano",
+          "winner": "Romano",
+          "score": "7-0"
+        }
+      ]
+    },
+    "total_matches_found": 15
+  },
+  {
+    "tournament_name": "Isabuhay 2016",
+    "year": "2016",
+    "url": "https://www.fliptop.com.ph/tournaments/isabuhay-2016",
+    "champion": "Loonie",
+    "total_participants": 16,
+    "all_emcees": [
+      "Loonie",
+      "Badang",
+      "Frooz",
+      "G-Clown",
+      "Pistolero",
+      "J-King",
+      "Flict-G",
+      "Tipsy D",
+      "Smugglaz",
+      "M Zhayt",
+      "KJap",
+      "Plazma",
+      "Romano",
+      "Rapido",
+      "Asser",
+      "Aklas"
+    ],
+    "rounds": {
+      "Final": [
+        {
+          "id": 591,
+          "emcee_blue": "Loonie",
+          "emcee_red": "Plazma",
+          "winner": "Loonie",
+          "score": "9-0"
+        }
+      ],
+      "Semifinals": [
+        {
+          "id": 563,
+          "emcee_blue": "Asser",
+          "emcee_red": "Plazma",
+          "winner": "Plazma",
+          "score": "6-1"
+        },
+        {
+          "id": 554,
+          "emcee_blue": "Loonie",
+          "emcee_red": "Tipsy D",
+          "winner": "Loonie",
+          "score": "7-0"
+        }
+      ],
+      "Quarter Semifinals": [
+        {
+          "id": 545,
+          "emcee_blue": "Loonie",
+          "emcee_red": "G-Clown",
+          "winner": "Loonie",
+          "score": "6-1"
+        },
+        {
+          "id": 535,
+          "emcee_blue": "Tipsy D",
+          "emcee_red": "J-King",
+          "winner": "Tipsy D",
+          "score": "7-0"
+        },
+        {
+          "id": 533,
+          "emcee_blue": "Rapido",
+          "emcee_red": "Asser",
+          "winner": "Asser",
+          "score": "7-0"
+        },
+        {
+          "id": 527,
+          "emcee_blue": "M Zhayt",
+          "emcee_red": "Plazma",
+          "winner": "Plazma",
+          "score": "5-2"
+        }
+      ],
+      "Quarters": [
+        {
+          "id": 518,
+          "emcee_blue": "Loonie",
+          "emcee_red": "Badang",
+          "winner": "Loonie",
+          "score": "7-0"
+        },
+        {
+          "id": 517,
+          "emcee_blue": "Asser",
+          "emcee_red": "Aklas",
+          "winner": "Asser",
+          "score": "7-0"
+        },
+        {
+          "id": 510,
+          "emcee_blue": "Smugglaz",
+          "emcee_red": "M Zhayt",
+          "winner": "M Zhayt",
+          "score": "6-1"
+        },
+        {
+          "id": 509,
+          "emcee_blue": "Frooz",
+          "emcee_red": "G-Clown",
+          "winner": "G-Clown",
+          "score": "4-3"
+        },
+        {
+          "id": 500,
+          "emcee_blue": "Tipsy D",
+          "emcee_red": "Flict-G",
+          "winner": "Tipsy D",
+          "score": "7-0"
+        },
+        {
+          "id": 498,
+          "emcee_blue": "Rapido",
+          "emcee_red": "Romano",
+          "winner": "Rapido",
+          "score": "7-0"
+        },
+        {
+          "id": 497,
+          "emcee_blue": "Pistolero",
+          "emcee_red": "J-King",
+          "winner": "J-King",
+          "score": "7-0"
+        },
+        {
+          "id": 496,
+          "emcee_blue": "Plazma",
+          "emcee_red": "KJap",
+          "winner": "Plazma",
+          "score": "7-0"
+        }
+      ]
+    },
+    "total_matches_found": 15
+  },
+  {
+    "tournament_name": "Isabuhay 2017",
+    "year": "2017",
+    "url": "https://www.fliptop.com.ph/tournaments/isabuhay-2017",
+    "champion": "Mhot",
+    "total_participants": 16,
+    "all_emcees": [
+      "Hearty",
+      "Batas",
+      "Batang Rebelde",
+      "Sur Henyo",
+      "Rudic",
+      "Asser",
+      "Fukuda",
+      "Sixth Threat",
+      "Apekz",
+      "Badang",
+      "Omar Baliw",
+      "Sayadd",
+      "Dhuski",
+      "Goriong Talas",
+      "Plazma",
+      "Mhot"
+    ],
+    "rounds": {
+      "Final": [
+        {
+          "id": 669,
+          "emcee_blue": "Mhot",
+          "emcee_red": "Sur Henyo",
+          "winner": "Mhot",
+          "score": "7-0"
+        }
+      ],
+      "Semifinals": [
+        {
+          "id": 644,
+          "emcee_blue": "Sur Henyo",
+          "emcee_red": "Fukuda",
+          "winner": "Sur Henyo",
+          "score": "8-0"
+        },
+        {
+          "id": 638,
+          "emcee_blue": "Apekz",
+          "emcee_red": "Mhot",
+          "winner": "Mhot",
+          "score": "9-0"
+        }
+      ],
+      "Quarter Semifinals": [
+        {
+          "id": 637,
+          "emcee_blue": "Asser",
+          "emcee_red": "Fukuda",
+          "winner": "Fukuda",
+          "score": "7-2"
+        },
+        {
+          "id": 631,
+          "emcee_blue": "Batas",
+          "emcee_red": "Sur Henyo",
+          "winner": "Sur Henyo",
+          "score": "6-1"
+        },
+        {
+          "id": 630,
+          "emcee_blue": "Apekz",
+          "emcee_red": "Sayadd",
+          "winner": "Apekz",
+          "score": "7-0"
+        },
+        {
+          "id": 629,
+          "emcee_blue": "Goriong Talas",
+          "emcee_red": "Mhot",
+          "winner": "Mhot",
+          "score": "7-0"
+        }
+      ],
+      "Quarters": [
+        {
+          "id": 625,
+          "emcee_blue": "Asser",
+          "emcee_red": "Rudic",
+          "winner": "Asser",
+          "score": "4-3"
+        },
+        {
+          "id": 624,
+          "emcee_blue": "Fukuda",
+          "emcee_red": "Sixth Threat",
+          "winner": "Fukuda",
+          "score": "6-1"
+        },
+        {
+          "id": 604,
+          "emcee_blue": "Plazma",
+          "emcee_red": "Mhot",
+          "winner": "Mhot",
+          "score": "6-1"
+        },
+        {
+          "id": 603,
+          "emcee_blue": "Goriong Talas",
+          "emcee_red": "Dhuski",
+          "winner": "Goriong Talas",
+          "score": "6-1"
+        },
+        {
+          "id": 602,
+          "emcee_blue": "Apekz",
+          "emcee_red": "Badang",
+          "winner": "Apekz",
+          "score": "7-0"
+        },
+        {
+          "id": 597,
+          "emcee_blue": "Sayadd",
+          "emcee_red": "Omar Baliw",
+          "winner": "Sayadd",
+          "score": "5-2"
+        },
+        {
+          "id": 596,
+          "emcee_blue": "Batas",
+          "emcee_red": "Hearty",
+          "winner": "Batas",
+          "score": "7-0"
+        },
+        {
+          "id": 595,
+          "emcee_blue": "Batang Rebelde",
+          "emcee_red": "Sur Henyo",
+          "winner": "Sur Henyo",
+          "score": "4-3"
+        }
+      ]
+    },
+    "total_matches_found": 15
+  },
+  {
+    "tournament_name": "Isabuhay 2018",
+    "year": "2018",
+    "url": "https://www.fliptop.com.ph/tournaments/isabuhay-2018",
+    "champion": "Shehyee",
+    "total_participants": 16,
+    "all_emcees": [
+      "Batas",
+      "Jonas",
+      "Maxford",
+      "Fukuda",
+      "J-King",
+      "Sayadd",
+      "Shehyee",
+      "Lhipkram",
+      "Plazma",
+      "Batang Rebelde",
+      "Aelekz",
+      "Pistolero",
+      "Invictus",
+      "Marshall Bonifacio",
+      "Abra",
+      "Poison13"
+    ],
+    "rounds": {
+      "Final": [
+        {
+          "id": 724,
+          "emcee_blue": "Shehyee",
+          "emcee_red": "Pistolero",
+          "winner": "Shehyee",
+          "score": "5-2"
+        }
+      ],
+      "Semifinals": [
+        {
+          "id": 709,
+          "emcee_blue": "Abra",
+          "emcee_red": "Pistolero",
+          "winner": "Pistolero",
+          "score": "7-0"
+        },
+        {
+          "id": 708,
+          "emcee_blue": "Shehyee",
+          "emcee_red": "Fukuda",
+          "winner": "Shehyee",
+          "score": "7-0"
+        }
+      ],
+      "Quarter Semifinals": [
+        {
+          "id": 702,
+          "emcee_blue": "Batas",
+          "emcee_red": "Fukuda",
+          "winner": "Fukuda",
+          "score": "7-0"
+        },
+        {
+          "id": 701,
+          "emcee_blue": "Abra",
+          "emcee_red": "Invictus",
+          "winner": "Abra",
+          "score": "7-0"
+        },
+        {
+          "id": 700,
+          "emcee_blue": "Shehyee",
+          "emcee_red": "J-King",
+          "winner": "Shehyee",
+          "score": "6-1"
+        },
+        {
+          "id": 699,
+          "emcee_blue": "Plazma",
+          "emcee_red": "Pistolero",
+          "winner": "Pistolero",
+          "score": "5-0"
+        }
+      ],
+      "Quarters": [
+        {
+          "id": 694,
+          "emcee_blue": "Maxford",
+          "emcee_red": "Fukuda",
+          "winner": "Fukuda",
+          "score": "7-0"
+        },
+        {
+          "id": 692,
+          "emcee_blue": "Pistolero",
+          "emcee_red": "Aelekz",
+          "winner": "Pistolero",
+          "score": "7-0"
+        },
+        {
+          "id": 687,
+          "emcee_blue": "Invictus",
+          "emcee_red": "Marshall Bonifacio",
+          "winner": "Invictus",
+          "score": "6-1"
+        },
+        {
+          "id": 674,
+          "emcee_blue": "Batas",
+          "emcee_red": "Jonas",
+          "winner": "Batas",
+          "score": "7-0"
+        },
+        {
+          "id": 673,
+          "emcee_blue": "Abra",
+          "emcee_red": "Poison13",
+          "winner": "Abra",
+          "score": "6-0"
+        },
+        {
+          "id": 672,
+          "emcee_blue": "Shehyee",
+          "emcee_red": "Lhipkram",
+          "winner": "Shehyee",
+          "score": "4-3"
+        },
+        {
+          "id": 671,
+          "emcee_blue": "Sayadd",
+          "emcee_red": "J-King",
+          "winner": "J-King",
+          "score": "5-2"
+        },
+        {
+          "id": 670,
+          "emcee_blue": "Plazma",
+          "emcee_red": "Batang Rebelde",
+          "winner": "Plazma",
+          "score": "7-0"
+        }
+      ]
+    },
+    "total_matches_found": 15
+  },
+  {
+    "tournament_name": "Isabuhay 2019",
+    "year": "2019",
+    "url": "https://www.fliptop.com.ph/tournaments/isabuhay-2019",
+    "champion": "Sixth Threat",
+    "total_participants": 16,
+    "all_emcees": [
+      "BLKD",
+      "Marshall Bonifacio",
+      "Dosage",
+      "Poison13",
+      "Sayadd",
+      "Lanzeta",
+      "Sixth Threat",
+      "Rudic",
+      "J-Blaque",
+      "Lhipkram",
+      "Goriong Talas",
+      "G-Clown",
+      "Asser",
+      "Jonas",
+      "Apekz",
+      "Hazky"
+    ],
+    "rounds": {
+      "Final": [
+        {
+          "id": 837,
+          "emcee_blue": "Apekz",
+          "emcee_red": "Sixth Threat",
+          "winner": "Sixth Threat",
+          "score": "6-3"
+        }
+      ],
+      "Semifinals": [
+        {
+          "id": 816,
+          "emcee_blue": "Apekz",
+          "emcee_red": "G-Clown",
+          "winner": "Apekz",
+          "score": "7-0"
+        },
+        {
+          "id": 815,
+          "emcee_blue": "Sixth Threat",
+          "emcee_red": "Poison13",
+          "winner": "Sixth Threat",
+          "score": "6-1"
+        }
+      ],
+      "Quarter Semifinals": [
+        {
+          "id": 775,
+          "emcee_blue": "BLKD",
+          "emcee_red": "Poison13",
+          "winner": "Poison13",
+          "score": "7-0"
+        },
+        {
+          "id": 774,
+          "emcee_blue": "Apekz",
+          "emcee_red": "Asser",
+          "winner": "Apekz",
+          "score": "7-0"
+        },
+        {
+          "id": 773,
+          "emcee_blue": "Lanzeta",
+          "emcee_red": "Sixth Threat",
+          "winner": "Sixth Threat",
+          "score": "7-0"
+        },
+        {
+          "id": 772,
+          "emcee_blue": "Lhipkram",
+          "emcee_red": "G-Clown",
+          "winner": "G-Clown",
+          "score": "7-0"
+        }
+      ],
+      "Quarters": [
+        {
+          "id": 768,
+          "emcee_blue": "Apekz",
+          "emcee_red": "Hazky",
+          "winner": "Apekz",
+          "score": "7-0"
+        },
+        {
+          "id": 767,
+          "emcee_blue": "Sayadd",
+          "emcee_red": "Lanzeta",
+          "winner": "Lanzeta",
+          "score": "5-2"
+        },
+        {
+          "id": 766,
+          "emcee_blue": "Goriong Talas",
+          "emcee_red": "G-Clown",
+          "winner": "G-Clown",
+          "score": "7-0"
+        },
+        {
+          "id": 761,
+          "emcee_blue": "BLKD",
+          "emcee_red": "Marshall Bonifacio",
+          "winner": "BLKD",
+          "score": "7-0"
+        },
+        {
+          "id": 760,
+          "emcee_blue": "Lhipkram",
+          "emcee_red": "J-Blaque",
+          "winner": "Lhipkram",
+          "score": "4-3"
+        },
+        {
+          "id": 759,
+          "emcee_blue": "Jonas",
+          "emcee_red": "Asser",
+          "winner": "Asser",
+          "score": "7-0"
+        },
+        {
+          "id": 747,
+          "emcee_blue": "Poison13",
+          "emcee_red": "Dosage",
+          "winner": "Poison13",
+          "score": "7-0"
+        },
+        {
+          "id": 746,
+          "emcee_blue": "Sixth Threat",
+          "emcee_red": "Rudic",
+          "winner": "Sixth Threat",
+          "score": "4-3"
+        }
+      ]
+    },
+    "total_matches_found": 15
+  },
+  {
+    "tournament_name": "Isabuhay 2020",
+    "year": "2020",
+    "url": "https://www.fliptop.com.ph/tournaments/isabuhay-2020",
+    "champion": "M Zhayt",
+    "total_participants": 16,
+    "all_emcees": [
+      "Batas",
+      "J-King",
+      "Frooz",
+      "Luxuria",
+      "M Zhayt",
+      "Yuniko",
+      "GL",
+      "Chris Ace",
+      "Gameboy",
+      "Onlison",
+      "Jonas",
+      "Elbiz",
+      "Marshall Bonifacio",
+      "Kregga",
+      "Lanzeta",
+      "Lhipkram"
+    ],
+    "rounds": {
+      "Final": [
+        {
+          "id": 965,
+          "emcee_blue": "M Zhayt",
+          "emcee_red": "Lhipkram",
+          "winner": "M Zhayt",
+          "score": "6-3"
+        }
+      ],
+      "Semifinals": [
+        {
+          "id": 926,
+          "emcee_blue": "M Zhayt",
+          "emcee_red": "Luxuria",
+          "winner": "M Zhayt",
+          "score": "5-0"
+        },
+        {
+          "id": 925,
+          "emcee_blue": "Lhipkram",
+          "emcee_red": "Jonas",
+          "winner": "Lhipkram",
+          "score": "5-0"
+        }
+      ],
+      "Quarter Semifinals": [
+        {
+          "id": 919,
+          "emcee_blue": "M Zhayt",
+          "emcee_red": "GL",
+          "winner": "M Zhayt",
+          "score": "5-0"
+        },
+        {
+          "id": 918,
+          "emcee_blue": "Lhipkram",
+          "emcee_red": "Kregga",
+          "winner": "Lhipkram",
+          "score": "5-0"
+        },
+        {
+          "id": 915,
+          "emcee_blue": "Jonas",
+          "emcee_red": "Onlison",
+          "winner": "Jonas",
+          "score": "4-1"
+        },
+        {
+          "id": 910,
+          "emcee_blue": "Batas",
+          "emcee_red": "Luxuria",
+          "winner": "Luxuria",
+          "score": "3-2"
+        }
+      ],
+      "Quarters": [
+        {
+          "id": 906,
+          "emcee_blue": "GL",
+          "emcee_red": "Chris Ace",
+          "winner": "GL",
+          "score": "5-0"
+        },
+        {
+          "id": 902,
+          "emcee_blue": "Kregga",
+          "emcee_red": "Marshall Bonifacio",
+          "winner": "Kregga",
+          "score": "3-2"
+        },
+        {
+          "id": 897,
+          "emcee_blue": "Onlison",
+          "emcee_red": "Gameboy",
+          "winner": "Onlison",
+          "score": "5-0"
+        },
+        {
+          "id": 895,
+          "emcee_blue": "Frooz",
+          "emcee_red": "Luxuria",
+          "winner": "Luxuria",
+          "score": "5-0"
+        },
+        {
+          "id": 852,
+          "emcee_blue": "Batas",
+          "emcee_red": "J-King",
+          "winner": "Batas",
+          "score": "7-0"
+        },
+        {
+          "id": 851,
+          "emcee_blue": "Lhipkram",
+          "emcee_red": "Lanzeta",
+          "winner": "Lhipkram",
+          "score": "7-0"
+        },
+        {
+          "id": 846,
+          "emcee_blue": "M Zhayt",
+          "emcee_red": "Yuniko",
+          "winner": "M Zhayt",
+          "score": "5-0"
+        },
+        {
+          "id": 844,
+          "emcee_blue": "Jonas",
+          "emcee_red": "Elbiz",
+          "winner": "Jonas",
+          "score": "3-2"
+        }
+      ]
+    },
+    "total_matches_found": 15
+  },
+  {
+    "tournament_name": "Isabuhay 2021",
+    "year": "2021",
+    "url": "https://www.fliptop.com.ph/tournaments/isabuhay-2021",
+    "champion": "J-Blaque",
+    "total_participants": 16,
+    "all_emcees": [
+      "Apekz",
+      "Bagsik",
+      "Mastafeat",
+      "K-Ram",
+      "Goriong Talas",
+      "Illtimate",
+      "Onaks",
+      "Vitrum",
+      "CNine",
+      "G-Clown",
+      "LilStrocks",
+      "J-Blaque",
+      "JR Zero",
+      "Zend Luke",
+      "Righteous1",
+      "Harlem"
+    ],
+    "rounds": {
+      "Final": [
+        {
+          "id": 964,
+          "emcee_blue": "Goriong Talas",
+          "emcee_red": "J-Blaque",
+          "winner": "J-Blaque",
+          "score": "6-3"
+        }
+      ],
+      "Semifinals": [
+        {
+          "id": 928,
+          "emcee_blue": "Apekz",
+          "emcee_red": "Goriong Talas",
+          "winner": "Goriong Talas",
+          "score": "3-2"
+        },
+        {
+          "id": 927,
+          "emcee_blue": "Zend Luke",
+          "emcee_red": "J-Blaque",
+          "winner": "J-Blaque",
+          "score": "3-2"
+        }
+      ],
+      "Quarter Semifinals": [
+        {
+          "id": 917,
+          "emcee_blue": "G-Clown",
+          "emcee_red": "J-Blaque",
+          "winner": "J-Blaque",
+          "score": "5-0"
+        },
+        {
+          "id": 916,
+          "emcee_blue": "Harlem",
+          "emcee_red": "Zend Luke",
+          "winner": "Zend Luke",
+          "score": "3-2"
+        },
+        {
+          "id": 909,
+          "emcee_blue": "Apekz",
+          "emcee_red": "Mastafeat",
+          "winner": "Apekz",
+          "score": "5-0"
+        },
+        {
+          "id": 908,
+          "emcee_blue": "Goriong Talas",
+          "emcee_red": "Vitrum",
+          "winner": "Goriong Talas",
+          "score": "5-0"
+        }
+      ],
+      "Quarters": [
+        {
+          "id": 905,
+          "emcee_blue": "LilStrocks",
+          "emcee_red": "J-Blaque",
+          "winner": "J-Blaque",
+          "score": "4-1"
+        },
+        {
+          "id": 901,
+          "emcee_blue": "JR Zero",
+          "emcee_red": "Zend Luke",
+          "winner": "Zend Luke",
+          "score": "5-0"
+        },
+        {
+          "id": 896,
+          "emcee_blue": "Apekz",
+          "emcee_red": "Bagsik",
+          "winner": "Apekz",
+          "score": "5-0"
+        },
+        {
+          "id": 894,
+          "emcee_blue": "Goriong Talas",
+          "emcee_red": "Illtimate",
+          "winner": "Goriong Talas",
+          "score": "5-0"
+        },
+        {
+          "id": 893,
+          "emcee_blue": "G-Clown",
+          "emcee_red": "CNine",
+          "winner": "G-Clown",
+          "score": "5-0"
+        },
+        {
+          "id": 892,
+          "emcee_blue": "Harlem",
+          "emcee_red": "Righteous1",
+          "winner": "Harlem",
+          "score": "5-0"
+        },
+        {
+          "id": 891,
+          "emcee_blue": "K-Ram",
+          "emcee_red": "Mastafeat",
+          "winner": "Mastafeat",
+          "score": "5-0"
+        },
+        {
+          "id": 890,
+          "emcee_blue": "Onaks",
+          "emcee_red": "Vitrum",
+          "winner": "Vitrum",
+          "score": "3-2"
+        }
+      ]
+    },
+    "total_matches_found": 15
+  },
+  {
+    "tournament_name": "Isabuhay 2022",
+    "year": "2022",
+    "url": "https://www.fliptop.com.ph/tournaments/isabuhay-2022",
+    "champion": "Pistolero",
+    "total_participants": 16,
+    "all_emcees": [
+      "Goriong Talas",
+      "Pen Pluma",
+      "JDee",
+      "Zaki",
+      "Castillo",
+      "CNine",
+      "Plaridhel",
+      "Pistolero",
+      "Zaito",
+      "Luxuria",
+      "C-Quence",
+      "Harlem",
+      "Poison13",
+      "SlockOne",
+      "Zend Luke",
+      "Elbiz"
+    ],
+    "rounds": {
+      "Final": [
+        {
+          "id": 1027,
+          "emcee_blue": "Pistolero",
+          "emcee_red": "Luxuria",
+          "winner": "Pistolero",
+          "score": "7-0"
+        }
+      ],
+      "Semifinals": [
+        {
+          "id": 1000,
+          "emcee_blue": "Pistolero",
+          "emcee_red": "Goriong Talas",
+          "winner": "Pistolero",
+          "score": "7-0"
+        },
+        {
+          "id": 999,
+          "emcee_blue": "Poison13",
+          "emcee_red": "Luxuria",
+          "winner": "Luxuria",
+          "score": "6-1"
+        }
+      ],
+      "Quarter Semifinals": [
+        {
+          "id": 993,
+          "emcee_blue": "Pistolero",
+          "emcee_red": "Castillo",
+          "winner": "Pistolero",
+          "score": "7-0"
+        },
+        {
+          "id": 992,
+          "emcee_blue": "Poison13",
+          "emcee_red": "Elbiz",
+          "winner": "Poison13",
+          "score": "7-0"
+        },
+        {
+          "id": 991,
+          "emcee_blue": "Goriong Talas",
+          "emcee_red": "JDee",
+          "winner": "Goriong Talas",
+          "score": "4-3"
+        },
+        {
+          "id": 990,
+          "emcee_blue": "Harlem",
+          "emcee_red": "Luxuria",
+          "winner": "Luxuria",
+          "score": "7-0"
+        }
+      ],
+      "Quarters": [
+        {
+          "id": 985,
+          "emcee_blue": "Pistolero",
+          "emcee_red": "Plaridhel",
+          "winner": "Pistolero",
+          "score": "6-1"
+        },
+        {
+          "id": 982,
+          "emcee_blue": "Elbiz",
+          "emcee_red": "Zend Luke",
+          "winner": "Elbiz",
+          "score": "5-2"
+        },
+        {
+          "id": 977,
+          "emcee_blue": "Goriong Talas",
+          "emcee_red": "Pen Pluma",
+          "winner": "Goriong Talas",
+          "score": "3-2"
+        },
+        {
+          "id": 975,
+          "emcee_blue": "CNine",
+          "emcee_red": "Castillo",
+          "winner": "Castillo",
+          "score": "3-2"
+        },
+        {
+          "id": 972,
+          "emcee_blue": "Zaito",
+          "emcee_red": "Luxuria",
+          "winner": "Luxuria",
+          "score": "6-1"
+        },
+        {
+          "id": 971,
+          "emcee_blue": "Harlem",
+          "emcee_red": "C-Quence",
+          "winner": "Harlem",
+          "score": "7-0"
+        },
+        {
+          "id": 970,
+          "emcee_blue": "Poison13",
+          "emcee_red": "SlockOne",
+          "winner": "Poison13",
+          "score": "7-0"
+        },
+        {
+          "id": 968,
+          "emcee_blue": "JDee",
+          "emcee_red": "Zaki",
+          "winner": "JDee",
+          "score": "5-2"
+        }
+      ]
+    },
+    "total_matches_found": 15
+  },
+  {
+    "tournament_name": "Isabuhay 2023",
+    "year": "2023",
+    "url": "https://www.fliptop.com.ph/tournaments/isabuhay-2023",
+    "champion": "Invictus",
+    "total_participants": 16,
+    "all_emcees": [
+      "Sak Maestro",
+      "Asser",
+      "Hazky",
+      "C-Quence",
+      "Plaridhel",
+      "Bagsik",
+      "Prince Rhyme",
+      "Poison13",
+      "Zaito",
+      "J-King",
+      "Castillo",
+      "JDee",
+      "G-Clown",
+      "Illtimate",
+      "Sayadd",
+      "Invictus"
+    ],
+    "rounds": {
+      "Final": [
+        {
+          "id": 1121,
+          "emcee_blue": "Hazky",
+          "emcee_red": "Invictus",
+          "winner": "Invictus",
+          "score": "7-0"
+        }
+      ],
+      "Semifinals": [
+        {
+          "id": 1097,
+          "emcee_blue": "Hazky",
+          "emcee_red": "Plaridhel",
+          "winner": "Hazky",
+          "score": "5-2"
+        },
+        {
+          "id": 1089,
+          "emcee_blue": "Invictus",
+          "emcee_red": "JDee",
+          "winner": "Invictus",
+          "score": "5-2"
+        }
+      ],
+      "Quarter Semifinals": [
+        {
+          "id": 1074,
+          "emcee_blue": "Sak Maestro",
+          "emcee_red": "Hazky",
+          "winner": "Hazky",
+          "score": "7-0"
+        },
+        {
+          "id": 1073,
+          "emcee_blue": "Zaito",
+          "emcee_red": "JDee",
+          "winner": "JDee",
+          "score": "7-0"
+        },
+        {
+          "id": 1072,
+          "emcee_blue": "Poison13",
+          "emcee_red": "Plaridhel",
+          "winner": "Plaridhel",
+          "score": "5-2"
+        },
+        {
+          "id": 1071,
+          "emcee_blue": "Invictus",
+          "emcee_red": "Illtimate",
+          "winner": "Invictus",
+          "score": "7-0"
+        }
+      ],
+      "Quarters": [
+        {
+          "id": 1057,
+          "emcee_blue": "Sayadd",
+          "emcee_red": "Invictus",
+          "winner": "Invictus",
+          "score": "7-0"
+        },
+        {
+          "id": 1056,
+          "emcee_blue": "Plaridhel",
+          "emcee_red": "Bagsik",
+          "winner": "Plaridhel",
+          "score": "6-1"
+        },
+        {
+          "id": 1042,
+          "emcee_blue": "Sak Maestro",
+          "emcee_red": "Asser",
+          "winner": "Sak Maestro",
+          "score": "4-1"
+        },
+        {
+          "id": 1041,
+          "emcee_blue": "Hazky",
+          "emcee_red": "C-Quence",
+          "winner": "Hazky",
+          "score": "3-2"
+        },
+        {
+          "id": 1040,
+          "emcee_blue": "Poison13",
+          "emcee_red": "Prince Rhyme",
+          "winner": "Poison13",
+          "score": "5-0"
+        },
+        {
+          "id": 1035,
+          "emcee_blue": "Zaito",
+          "emcee_red": "J-King",
+          "winner": "Zaito",
+          "score": "5-0"
+        },
+        {
+          "id": 1034,
+          "emcee_blue": "G-Clown",
+          "emcee_red": "Illtimate",
+          "winner": "Illtimate",
+          "score": "3-2"
+        },
+        {
+          "id": 1033,
+          "emcee_blue": "JDee",
+          "emcee_red": "Castillo",
+          "winner": "JDee",
+          "score": "3-2"
+        }
+      ]
+    },
+    "total_matches_found": 15
+  },
+  {
+    "tournament_name": "Isabuhay 2024",
+    "year": "2024",
+    "url": "https://www.fliptop.com.ph/tournaments/isabuhay-2024",
+    "champion": "GL",
+    "total_participants": 16,
+    "all_emcees": [
+      "GL",
+      "JDee",
+      "Sur Henyo",
+      "JR Zero",
+      "EJ Power",
+      "Poison13",
+      "Romano",
+      "3rdy",
+      "Apoc",
+      "Ruffian",
+      "Class G",
+      "SlockOne",
+      "Marshall Bonifacio",
+      "Vitrum",
+      "G-Clown",
+      "Rapido"
+    ],
+    "rounds": {
+      "Final": [
+        {
+          "id": 1209,
+          "emcee_blue": "GL",
+          "emcee_red": "Vitrum",
+          "winner": "GL",
+          "score": "4-3"
+        }
+      ],
+      "Semifinals": [
+        {
+          "id": 1192,
+          "emcee_blue": "SlockOne",
+          "emcee_red": "Vitrum",
+          "winner": "Vitrum",
+          "score": "7-0"
+        },
+        {
+          "id": 1189,
+          "emcee_blue": "GL",
+          "emcee_red": "EJ Power",
+          "winner": "GL",
+          "score": "7-0"
+        }
+      ],
+      "Quarter Semifinals": [
+        {
+          "id": 1173,
+          "emcee_blue": "Sur Henyo",
+          "emcee_red": "GL",
+          "winner": "GL",
+          "score": "7-0"
+        },
+        {
+          "id": 1171,
+          "emcee_blue": "EJ Power",
+          "emcee_red": "Romano",
+          "winner": "EJ Power",
+          "score": "7-0"
+        },
+        {
+          "id": 1165,
+          "emcee_blue": "SlockOne",
+          "emcee_red": "Ruffian",
+          "winner": "SlockOne",
+          "score": "7-0"
+        },
+        {
+          "id": 1164,
+          "emcee_blue": "G-Clown",
+          "emcee_red": "Vitrum",
+          "winner": "Vitrum",
+          "score": "7-0"
+        }
+      ],
+      "Quarters": [
+        {
+          "id": 1141,
+          "emcee_blue": "EJ Power",
+          "emcee_red": "Poison13",
+          "winner": "EJ Power",
+          "score": "7-0"
+        },
+        {
+          "id": 1140,
+          "emcee_blue": "GL",
+          "emcee_red": "JDee",
+          "winner": "GL",
+          "score": "7-0"
+        },
+        {
+          "id": 1139,
+          "emcee_blue": "SlockOne",
+          "emcee_red": "Class G",
+          "winner": "SlockOne",
+          "score": "7-0"
+        },
+        {
+          "id": 1138,
+          "emcee_blue": "Romano",
+          "emcee_red": "3rdy",
+          "winner": "Romano",
+          "score": "7-0"
+        },
+        {
+          "id": 1137,
+          "emcee_blue": "Sur Henyo",
+          "emcee_red": "JR Zero",
+          "winner": "Sur Henyo",
+          "score": "7-0"
+        },
+        {
+          "id": 1136,
+          "emcee_blue": "G-Clown",
+          "emcee_red": "Rapido",
+          "winner": "G-Clown",
+          "score": "6-1"
+        },
+        {
+          "id": 1135,
+          "emcee_blue": "Marshall Bonifacio",
+          "emcee_red": "Vitrum",
+          "winner": "Vitrum",
+          "score": "7-0"
+        },
+        {
+          "id": 1134,
+          "emcee_blue": "Apoc",
+          "emcee_red": "Ruffian",
+          "winner": "Ruffian",
+          "score": "7-0"
+        }
+      ]
+    },
+    "total_matches_found": 15
+  }
+]

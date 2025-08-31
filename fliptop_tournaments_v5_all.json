@@ -1,0 +1,1515 @@
+{
+  "tournaments": [
+    {
+      "tournament_name": "Isabuhay 2013",
+      "year": "2013",
+      "champion": "Aklas",
+      "total_participants": 16,
+      "brackets": {
+        "west": {
+          "quarters": [
+            {
+              "west_quarters_pos_1": "Sinio",
+              "west_quarters_pos_2": "Batang Rebelde",
+              "winner": "Sinio",
+              "score": "4-0"
+            },
+            {
+              "west_quarters_pos_3": "Andy G",
+              "west_quarters_pos_4": "Flipzydot1",
+              "winner": "Andy G",
+              "score": "5-0"
+            },
+            {
+              "west_quarters_pos_5": "Jade Wunn",
+              "west_quarters_pos_6": "Ranieboy",
+              "winner": "Jade Wunn",
+              "score": "5-0"
+            },
+            {
+              "west_quarters_pos_7": "J-Lem",
+              "west_quarters_pos_8": "Aklas",
+              "winner": "Aklas",
+              "score": "4-1"
+            }
+          ],
+          "quartersemi": [
+            {
+              "west_quartersemi_pos_1": "Sinio",
+              "west_quartersemi_pos_2": "Andy G",
+              "winner": "Sinio",
+              "score": "4-1"
+            },
+            {
+              "west_quartersemi_pos_3": "Jade Wunn",
+              "west_quartersemi_pos_4": "Aklas",
+              "winner": "Aklas",
+              "score": "5-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "west_semifinal_pos_1": "Sinio",
+              "west_semifinal_pos_2": "Aklas",
+              "winner": "Aklas",
+              "score": "5-0"
+            }
+          ]
+        },
+        "east": {
+          "quarters": [
+            {
+              "east_quarters_pos_1": "Rudic",
+              "east_quarters_pos_2": "Juan Lazy",
+              "winner": "Rudic",
+              "score": "5-0"
+            },
+            {
+              "east_quarters_pos_3": "Asero",
+              "east_quarters_pos_4": "Flict-G",
+              "winner": "Flict-G",
+              "score": "5-0"
+            },
+            {
+              "east_quarters_pos_5": "Goriong Talas",
+              "east_quarters_pos_6": "Sparo",
+              "winner": "Goriong Talas",
+              "score": "5-0"
+            },
+            {
+              "east_quarters_pos_7": "BLKD",
+              "east_quarters_pos_8": "Gin",
+              "winner": "BLKD",
+              "score": "5-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "east_quartersemi_pos_1": "Rudic",
+              "east_quartersemi_pos_2": "Flict-G",
+              "winner": "Flict-G",
+              "score": "5-0"
+            },
+            {
+              "east_quartersemi_pos_3": "Goriong Talas",
+              "east_quartersemi_pos_4": "BLKD",
+              "winner": "BLKD",
+              "score": "5-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "east_semifinal_pos_1": "Flict-G",
+              "east_semifinal_pos_2": "BLKD",
+              "winner": "BLKD",
+              "score": "5-0"
+            }
+          ]
+        },
+        "finals": [
+          {
+            "west_finalist": "Aklas",
+            "east_finalist": "BLKD",
+            "winner": "Aklas",
+            "score": "6-1"
+          }
+        ]
+      }
+    },
+    {
+      "tournament_name": "Isabuhay 2014",
+      "year": "2014",
+      "champion": "Batas",
+      "total_participants": 16,
+      "brackets": {
+        "west": {
+          "quarters": [
+            {
+              "west_quarters_pos_1": "Batas",
+              "west_quarters_pos_2": "Dopee",
+              "winner": "Batas",
+              "score": "5-0"
+            },
+            {
+              "west_quarters_pos_3": "Rudic",
+              "west_quarters_pos_4": "Nikki",
+              "winner": "Rudic",
+              "score": "3-2"
+            },
+            {
+              "west_quarters_pos_5": "Rapido",
+              "west_quarters_pos_6": "Goriong Talas",
+              "winner": "Rapido",
+              "score": "3-2"
+            },
+            {
+              "west_quarters_pos_7": "Silent Effect",
+              "west_quarters_pos_8": "Hizuka",
+              "winner": "Hizuka",
+              "score": "5-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "west_quartersemi_pos_1": "Batas",
+              "west_quartersemi_pos_2": "Rudic",
+              "winner": "Batas",
+              "score": "7-0"
+            },
+            {
+              "west_quartersemi_pos_3": "Rapido",
+              "west_quartersemi_pos_4": "Hizuka",
+              "winner": "Rapido",
+              "score": "3-2"
+            }
+          ],
+          "semifinal": [
+            {
+              "west_semifinal_pos_1": "Batas",
+              "west_semifinal_pos_2": "Rapido",
+              "winner": "Batas",
+              "score": "5-2"
+            }
+          ]
+        },
+        "east": {
+          "quarters": [
+            {
+              "east_quarters_pos_1": "Notorious",
+              "east_quarters_pos_2": "Prosecutor Billy",
+              "winner": "Prosecutor Billy",
+              "score": "5-0"
+            },
+            {
+              "east_quarters_pos_3": "Akt",
+              "east_quarters_pos_4": "Kris Delano",
+              "winner": "Kris Delano",
+              "score": "4-1"
+            },
+            {
+              "east_quarters_pos_5": "Melchrist",
+              "east_quarters_pos_6": "Maxford",
+              "winner": "Melchrist",
+              "score": "4-1"
+            },
+            {
+              "east_quarters_pos_7": "Elbiz",
+              "east_quarters_pos_8": "Aklas",
+              "winner": "Elbiz",
+              "score": "5-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "east_quartersemi_pos_1": "Prosecutor Billy",
+              "east_quartersemi_pos_2": "Kris Delano",
+              "winner": "Kris Delano",
+              "score": "7-0"
+            },
+            {
+              "east_quartersemi_pos_3": "Melchrist",
+              "east_quartersemi_pos_4": "Elbiz",
+              "winner": "Melchrist",
+              "score": "3-2"
+            }
+          ],
+          "semifinal": [
+            {
+              "east_semifinal_pos_1": "Kris Delano",
+              "east_semifinal_pos_2": "Melchrist",
+              "winner": "Melchrist",
+              "score": "7-0"
+            }
+          ]
+        },
+        "finals": [
+          {
+            "west_finalist": "Batas",
+            "east_finalist": "Melchrist",
+            "winner": "Batas",
+            "score": "7-0"
+          }
+        ]
+      }
+    },
+    {
+      "tournament_name": "Isabuhay 2015",
+      "year": "2015",
+      "champion": "Batas",
+      "total_participants": 16,
+      "brackets": {
+        "west": {
+          "quarters": [
+            {
+              "west_quarters_pos_1": "Dello",
+              "west_quarters_pos_2": "Badang",
+              "winner": "Dello",
+              "score": "7-0"
+            },
+            {
+              "west_quarters_pos_3": "Sak Maestro",
+              "west_quarters_pos_4": "Fongger",
+              "winner": "Sak Maestro",
+              "score": "5-0"
+            },
+            {
+              "west_quarters_pos_5": "Shehyee",
+              "west_quarters_pos_6": "Pistolero",
+              "winner": "Pistolero",
+              "score": "5-3"
+            },
+            {
+              "west_quarters_pos_7": "M Zhayt",
+              "west_quarters_pos_8": "Romano",
+              "winner": "Romano",
+              "score": "7-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "west_quartersemi_pos_1": "Dello",
+              "west_quartersemi_pos_2": "Sak Maestro",
+              "winner": "Dello",
+              "score": "7-0"
+            },
+            {
+              "west_quartersemi_pos_3": "Pistolero",
+              "west_quartersemi_pos_4": "Romano",
+              "winner": "Romano",
+              "score": "4-3"
+            }
+          ],
+          "semifinal": [
+            {
+              "west_semifinal_pos_1": "Dello",
+              "west_semifinal_pos_2": "Romano",
+              "winner": "Romano",
+              "score": "5-2"
+            }
+          ]
+        },
+        "east": {
+          "quarters": [
+            {
+              "east_quarters_pos_1": "Sayadd",
+              "east_quarters_pos_2": "Kregga",
+              "winner": "Sayadd",
+              "score": "4-3"
+            },
+            {
+              "east_quarters_pos_3": "Batas",
+              "east_quarters_pos_4": "Andy G",
+              "winner": "Batas",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_5": "Thike",
+              "east_quarters_pos_6": "BLKD",
+              "winner": "BLKD",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_7": "Shernan",
+              "east_quarters_pos_8": "Rapido",
+              "winner": "Shernan",
+              "score": "7-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "east_quartersemi_pos_1": "Sayadd",
+              "east_quartersemi_pos_2": "Batas",
+              "winner": "Batas",
+              "score": "6-1"
+            },
+            {
+              "east_quartersemi_pos_3": "BLKD",
+              "east_quartersemi_pos_4": "Shernan",
+              "winner": "Shernan",
+              "score": "4-3"
+            }
+          ],
+          "semifinal": [
+            {
+              "east_semifinal_pos_1": "Batas",
+              "east_semifinal_pos_2": "Shernan",
+              "winner": "Batas",
+              "score": "7-0"
+            }
+          ]
+        },
+        "finals": [
+          {
+            "west_finalist": "Romano",
+            "east_finalist": "Batas",
+            "winner": "Batas",
+            "score": "7-0"
+          }
+        ]
+      }
+    },
+    {
+      "tournament_name": "Isabuhay 2016",
+      "year": "2016",
+      "champion": "Loonie",
+      "total_participants": 16,
+      "brackets": {
+        "west": {
+          "quarters": [
+            {
+              "west_quarters_pos_1": "Loonie",
+              "west_quarters_pos_2": "Badang",
+              "winner": "Loonie",
+              "score": "7-0"
+            },
+            {
+              "west_quarters_pos_3": "Frooz",
+              "west_quarters_pos_4": "G-Clown",
+              "winner": "G-Clown",
+              "score": "4-3"
+            },
+            {
+              "west_quarters_pos_5": "Pistolero",
+              "west_quarters_pos_6": "J-King",
+              "winner": "J-King",
+              "score": "7-0"
+            },
+            {
+              "west_quarters_pos_7": "Flict-G",
+              "west_quarters_pos_8": "Tipsy D",
+              "winner": "Tipsy D",
+              "score": "7-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "west_quartersemi_pos_1": "Loonie",
+              "west_quartersemi_pos_2": "G-Clown",
+              "winner": "Loonie",
+              "score": "6-1"
+            },
+            {
+              "west_quartersemi_pos_3": "J-King",
+              "west_quartersemi_pos_4": "Tipsy D",
+              "winner": "Tipsy D",
+              "score": "7-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "west_semifinal_pos_1": "Loonie",
+              "west_semifinal_pos_2": "Tipsy D",
+              "winner": "Loonie",
+              "score": "7-0"
+            }
+          ]
+        },
+        "east": {
+          "quarters": [
+            {
+              "east_quarters_pos_1": "Smugglaz",
+              "east_quarters_pos_2": "M Zhayt",
+              "winner": "M Zhayt",
+              "score": "6-1"
+            },
+            {
+              "east_quarters_pos_3": "KJap",
+              "east_quarters_pos_4": "Plazma",
+              "winner": "Plazma",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_5": "Romano",
+              "east_quarters_pos_6": "Rapido",
+              "winner": "Rapido",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_7": "Asser",
+              "east_quarters_pos_8": "Aklas",
+              "winner": "Asser",
+              "score": "7-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "east_quartersemi_pos_1": "M Zhayt",
+              "east_quartersemi_pos_2": "Plazma",
+              "winner": "Plazma",
+              "score": "5-2"
+            },
+            {
+              "east_quartersemi_pos_3": "Rapido",
+              "east_quartersemi_pos_4": "Asser",
+              "winner": "Asser",
+              "score": "7-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "east_semifinal_pos_1": "Plazma",
+              "east_semifinal_pos_2": "Asser",
+              "winner": "Plazma",
+              "score": "6-1"
+            }
+          ]
+        },
+        "finals": [
+          {
+            "west_finalist": "Loonie",
+            "east_finalist": "Plazma",
+            "winner": "Loonie",
+            "score": "9-0"
+          }
+        ]
+      }
+    },
+    {
+      "tournament_name": "Isabuhay 2017",
+      "year": "2017",
+      "champion": "Mhot",
+      "total_participants": 16,
+      "brackets": {
+        "west": {
+          "quarters": [
+            {
+              "west_quarters_pos_1": "Hearty",
+              "west_quarters_pos_2": "Batas",
+              "winner": "Batas",
+              "score": "7-0"
+            },
+            {
+              "west_quarters_pos_3": "Batang Rebelde",
+              "west_quarters_pos_4": "Sur Henyo",
+              "winner": "Sur Henyo",
+              "score": "4-3"
+            },
+            {
+              "west_quarters_pos_5": "Rudic",
+              "west_quarters_pos_6": "Asser",
+              "winner": "Asser",
+              "score": "4-3"
+            },
+            {
+              "west_quarters_pos_7": "Fukuda",
+              "west_quarters_pos_8": "Sixth Threat",
+              "winner": "Fukuda",
+              "score": "6-1"
+            }
+          ],
+          "quartersemi": [
+            {
+              "west_quartersemi_pos_1": "Batas",
+              "west_quartersemi_pos_2": "Sur Henyo",
+              "winner": "Sur Henyo",
+              "score": "6-1"
+            },
+            {
+              "west_quartersemi_pos_3": "Asser",
+              "west_quartersemi_pos_4": "Fukuda",
+              "winner": "Fukuda",
+              "score": "7-2"
+            }
+          ],
+          "semifinal": [
+            {
+              "west_semifinal_pos_1": "Sur Henyo",
+              "west_semifinal_pos_2": "Fukuda",
+              "winner": "Sur Henyo",
+              "score": "8-0"
+            }
+          ]
+        },
+        "east": {
+          "quarters": [
+            {
+              "east_quarters_pos_1": "Apekz",
+              "east_quarters_pos_2": "Badang",
+              "winner": "Apekz",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_3": "Omar Baliw",
+              "east_quarters_pos_4": "Sayadd",
+              "winner": "Sayadd",
+              "score": "5-2"
+            },
+            {
+              "east_quarters_pos_5": "Dhuski",
+              "east_quarters_pos_6": "Goriong Talas",
+              "winner": "Goriong Talas",
+              "score": "6-1"
+            },
+            {
+              "east_quarters_pos_7": "Plazma",
+              "east_quarters_pos_8": "Mhot",
+              "winner": "Mhot",
+              "score": "6-1"
+            }
+          ],
+          "quartersemi": [
+            {
+              "east_quartersemi_pos_1": "Apekz",
+              "east_quartersemi_pos_2": "Sayadd",
+              "winner": "Apekz",
+              "score": "7-0"
+            },
+            {
+              "east_quartersemi_pos_3": "Goriong Talas",
+              "east_quartersemi_pos_4": "Mhot",
+              "winner": "Mhot",
+              "score": "7-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "east_semifinal_pos_1": "Apekz",
+              "east_semifinal_pos_2": "Mhot",
+              "winner": "Mhot",
+              "score": "9-0"
+            }
+          ]
+        },
+        "finals": [
+          {
+            "west_finalist": "Sur Henyo",
+            "east_finalist": "Mhot",
+            "winner": "Mhot",
+            "score": "7-0"
+          }
+        ]
+      }
+    },
+    {
+      "tournament_name": "Isabuhay 2018",
+      "year": "2018",
+      "champion": "Shehyee",
+      "total_participants": 16,
+      "brackets": {
+        "west": {
+          "quarters": [
+            {
+              "west_quarters_pos_1": "Batas",
+              "west_quarters_pos_2": "Jonas",
+              "winner": "Batas",
+              "score": "7-0"
+            },
+            {
+              "west_quarters_pos_3": "Maxford",
+              "west_quarters_pos_4": "Fukuda",
+              "winner": "Fukuda",
+              "score": "7-0"
+            },
+            {
+              "west_quarters_pos_5": "J-King",
+              "west_quarters_pos_6": "Sayadd",
+              "winner": "J-King",
+              "score": "5-2"
+            },
+            {
+              "west_quarters_pos_7": "Shehyee",
+              "west_quarters_pos_8": "Lhipkram",
+              "winner": "Shehyee",
+              "score": "4-3"
+            }
+          ],
+          "quartersemi": [
+            {
+              "west_quartersemi_pos_1": "Batas",
+              "west_quartersemi_pos_2": "Fukuda",
+              "winner": "Fukuda",
+              "score": "7-0"
+            },
+            {
+              "west_quartersemi_pos_3": "J-King",
+              "west_quartersemi_pos_4": "Shehyee",
+              "winner": "Shehyee",
+              "score": "6-1"
+            }
+          ],
+          "semifinal": [
+            {
+              "west_semifinal_pos_1": "Fukuda",
+              "west_semifinal_pos_2": "Shehyee",
+              "winner": "Shehyee",
+              "score": "7-0"
+            }
+          ]
+        },
+        "east": {
+          "quarters": [
+            {
+              "east_quarters_pos_1": "Plazma",
+              "east_quarters_pos_2": "Batang Rebelde",
+              "winner": "Plazma",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_3": "Aelekz",
+              "east_quarters_pos_4": "Pistolero",
+              "winner": "Pistolero",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_5": "Invictus",
+              "east_quarters_pos_6": "Marshall Bonifacio",
+              "winner": "Invictus",
+              "score": "6-1"
+            },
+            {
+              "east_quarters_pos_7": "Abra",
+              "east_quarters_pos_8": "Poison13",
+              "winner": "Abra",
+              "score": "6-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "east_quartersemi_pos_1": "Plazma",
+              "east_quartersemi_pos_2": "Pistolero",
+              "winner": "Pistolero",
+              "score": "5-0"
+            },
+            {
+              "east_quartersemi_pos_3": "Invictus",
+              "east_quartersemi_pos_4": "Abra",
+              "winner": "Abra",
+              "score": "7-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "east_semifinal_pos_1": "Pistolero",
+              "east_semifinal_pos_2": "Abra",
+              "winner": "Pistolero",
+              "score": "7-0"
+            }
+          ]
+        },
+        "finals": [
+          {
+            "west_finalist": "Shehyee",
+            "east_finalist": "Pistolero",
+            "winner": "Shehyee",
+            "score": "5-2"
+          }
+        ]
+      }
+    },
+    {
+      "tournament_name": "Isabuhay 2019",
+      "year": "2019",
+      "champion": "Sixth Threat",
+      "total_participants": 16,
+      "brackets": {
+        "west": {
+          "quarters": [
+            {
+              "west_quarters_pos_1": "BLKD",
+              "west_quarters_pos_2": "Marshall Bonifacio",
+              "winner": "BLKD",
+              "score": "7-0"
+            },
+            {
+              "west_quarters_pos_3": "Dosage",
+              "west_quarters_pos_4": "Poison13",
+              "winner": "Poison13",
+              "score": "7-0"
+            },
+            {
+              "west_quarters_pos_5": "Sayadd",
+              "west_quarters_pos_6": "Lanzeta",
+              "winner": "Lanzeta",
+              "score": "5-2"
+            },
+            {
+              "west_quarters_pos_7": "Sixth Threat",
+              "west_quarters_pos_8": "Rudic",
+              "winner": "Sixth Threat",
+              "score": "4-3"
+            }
+          ],
+          "quartersemi": [
+            {
+              "west_quartersemi_pos_1": "BLKD",
+              "west_quartersemi_pos_2": "Poison13",
+              "winner": "Poison13",
+              "score": "7-0"
+            },
+            {
+              "west_quartersemi_pos_3": "Lanzeta",
+              "west_quartersemi_pos_4": "Sixth Threat",
+              "winner": "Sixth Threat",
+              "score": "7-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "west_semifinal_pos_1": "Poison13",
+              "west_semifinal_pos_2": "Sixth Threat",
+              "winner": "Sixth Threat",
+              "score": "6-1"
+            }
+          ]
+        },
+        "east": {
+          "quarters": [
+            {
+              "east_quarters_pos_1": "J-Blaque",
+              "east_quarters_pos_2": "Lhipkram",
+              "winner": "Lhipkram",
+              "score": "4-3"
+            },
+            {
+              "east_quarters_pos_3": "Goriong Talas",
+              "east_quarters_pos_4": "G-Clown",
+              "winner": "G-Clown",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_5": "Asser",
+              "east_quarters_pos_6": "Jonas",
+              "winner": "Asser",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_7": "Apekz",
+              "east_quarters_pos_8": "Hazky",
+              "winner": "Apekz",
+              "score": "7-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "east_quartersemi_pos_1": "Lhipkram",
+              "east_quartersemi_pos_2": "G-Clown",
+              "winner": "G-Clown",
+              "score": "7-0"
+            },
+            {
+              "east_quartersemi_pos_3": "Asser",
+              "east_quartersemi_pos_4": "Apekz",
+              "winner": "Apekz",
+              "score": "7-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "east_semifinal_pos_1": "G-Clown",
+              "east_semifinal_pos_2": "Apekz",
+              "winner": "Apekz",
+              "score": "7-0"
+            }
+          ]
+        },
+        "finals": [
+          {
+            "west_finalist": "Sixth Threat",
+            "east_finalist": "Apekz",
+            "winner": "Sixth Threat",
+            "score": "6-3"
+          }
+        ]
+      }
+    },
+    {
+      "tournament_name": "Isabuhay 2020",
+      "year": "2020",
+      "champion": "M Zhayt",
+      "total_participants": 16,
+      "brackets": {
+        "west": {
+          "quarters": [
+            {
+              "west_quarters_pos_1": "Batas",
+              "west_quarters_pos_2": "J-King",
+              "winner": "Batas",
+              "score": "7-0"
+            },
+            {
+              "west_quarters_pos_3": "Frooz",
+              "west_quarters_pos_4": "Luxuria",
+              "winner": "Luxuria",
+              "score": "5-0"
+            },
+            {
+              "west_quarters_pos_5": "M Zhayt",
+              "west_quarters_pos_6": "Yuniko",
+              "winner": "M Zhayt",
+              "score": "5-0"
+            },
+            {
+              "west_quarters_pos_7": "GL",
+              "west_quarters_pos_8": "Chris Ace",
+              "winner": "GL",
+              "score": "5-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "west_quartersemi_pos_1": "Batas",
+              "west_quartersemi_pos_2": "Luxuria",
+              "winner": "Luxuria",
+              "score": "3-2"
+            },
+            {
+              "west_quartersemi_pos_3": "M Zhayt",
+              "west_quartersemi_pos_4": "GL",
+              "winner": "M Zhayt",
+              "score": "5-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "west_semifinal_pos_1": "Luxuria",
+              "west_semifinal_pos_2": "M Zhayt",
+              "winner": "M Zhayt",
+              "score": "5-0"
+            }
+          ]
+        },
+        "east": {
+          "quarters": [
+            {
+              "east_quarters_pos_1": "Gameboy",
+              "east_quarters_pos_2": "Onlison",
+              "winner": "Onlison",
+              "score": "5-0"
+            },
+            {
+              "east_quarters_pos_3": "Jonas",
+              "east_quarters_pos_4": "Elbiz",
+              "winner": "Jonas",
+              "score": "3-2"
+            },
+            {
+              "east_quarters_pos_5": "Marshall Bonifacio",
+              "east_quarters_pos_6": "Kregga",
+              "winner": "Kregga",
+              "score": "3-2"
+            },
+            {
+              "east_quarters_pos_7": "Lanzeta",
+              "east_quarters_pos_8": "Lhipkram",
+              "winner": "Lhipkram",
+              "score": "7-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "east_quartersemi_pos_1": "Onlison",
+              "east_quartersemi_pos_2": "Jonas",
+              "winner": "Jonas",
+              "score": "4-1"
+            },
+            {
+              "east_quartersemi_pos_3": "Kregga",
+              "east_quartersemi_pos_4": "Lhipkram",
+              "winner": "Lhipkram",
+              "score": "5-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "east_semifinal_pos_1": "Jonas",
+              "east_semifinal_pos_2": "Lhipkram",
+              "winner": "Lhipkram",
+              "score": "5-0"
+            }
+          ]
+        },
+        "finals": [
+          {
+            "west_finalist": "M Zhayt",
+            "east_finalist": "Lhipkram",
+            "winner": "M Zhayt",
+            "score": "6-3"
+          }
+        ]
+      }
+    },
+    {
+      "tournament_name": "Isabuhay 2021",
+      "year": "2021",
+      "champion": "J-Blaque",
+      "total_participants": 16,
+      "brackets": {
+        "west": {
+          "quarters": [
+            {
+              "west_quarters_pos_1": "Apekz",
+              "west_quarters_pos_2": "Bagsik",
+              "winner": "Apekz",
+              "score": "5-0"
+            },
+            {
+              "west_quarters_pos_3": "Mastafeat",
+              "west_quarters_pos_4": "K-Ram",
+              "winner": "Mastafeat",
+              "score": "5-0"
+            },
+            {
+              "west_quarters_pos_5": "Goriong Talas",
+              "west_quarters_pos_6": "Illtimate",
+              "winner": "Goriong Talas",
+              "score": "5-0"
+            },
+            {
+              "west_quarters_pos_7": "Onaks",
+              "west_quarters_pos_8": "Vitrum",
+              "winner": "Vitrum",
+              "score": "3-2"
+            }
+          ],
+          "quartersemi": [
+            {
+              "west_quartersemi_pos_1": "Apekz",
+              "west_quartersemi_pos_2": "Mastafeat",
+              "winner": "Apekz",
+              "score": "5-0"
+            },
+            {
+              "west_quartersemi_pos_3": "Goriong Talas",
+              "west_quartersemi_pos_4": "Vitrum",
+              "winner": "Goriong Talas",
+              "score": "5-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "west_semifinal_pos_1": "Apekz",
+              "west_semifinal_pos_2": "Goriong Talas",
+              "winner": "Goriong Talas",
+              "score": "3-2"
+            }
+          ]
+        },
+        "east": {
+          "quarters": [
+            {
+              "east_quarters_pos_1": "CNine",
+              "east_quarters_pos_2": "G-Clown",
+              "winner": "G-Clown",
+              "score": "5-0"
+            },
+            {
+              "east_quarters_pos_3": "LilStrocks",
+              "east_quarters_pos_4": "J-Blaque",
+              "winner": "J-Blaque",
+              "score": "4-1"
+            },
+            {
+              "east_quarters_pos_5": "JR Zero",
+              "east_quarters_pos_6": "Zend Luke",
+              "winner": "Zend Luke",
+              "score": "5-0"
+            },
+            {
+              "east_quarters_pos_7": "Righteous1",
+              "east_quarters_pos_8": "Harlem",
+              "winner": "Harlem",
+              "score": "5-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "east_quartersemi_pos_1": "G-Clown",
+              "east_quartersemi_pos_2": "J-Blaque",
+              "winner": "J-Blaque",
+              "score": "5-0"
+            },
+            {
+              "east_quartersemi_pos_3": "Zend Luke",
+              "east_quartersemi_pos_4": "Harlem",
+              "winner": "Zend Luke",
+              "score": "3-2"
+            }
+          ],
+          "semifinal": [
+            {
+              "east_semifinal_pos_1": "J-Blaque",
+              "east_semifinal_pos_2": "Zend Luke",
+              "winner": "J-Blaque",
+              "score": "3-2"
+            }
+          ]
+        },
+        "finals": [
+          {
+            "west_finalist": "Goriong Talas",
+            "east_finalist": "J-Blaque",
+            "winner": "J-Blaque",
+            "score": "6-3"
+          }
+        ]
+      }
+    },
+    {
+      "tournament_name": "Isabuhay 2022",
+      "year": "2022",
+      "champion": "Pistolero",
+      "total_participants": 16,
+      "brackets": {
+        "west": {
+          "quarters": [
+            {
+              "west_quarters_pos_1": "Goriong Talas",
+              "west_quarters_pos_2": "Pen Pluma",
+              "winner": "Goriong Talas",
+              "score": "3-2"
+            },
+            {
+              "west_quarters_pos_3": "JDee",
+              "west_quarters_pos_4": "Zaki",
+              "winner": "JDee",
+              "score": "5-2"
+            },
+            {
+              "west_quarters_pos_5": "Castillo",
+              "west_quarters_pos_6": "CNine",
+              "winner": "Castillo",
+              "score": "3-2"
+            },
+            {
+              "west_quarters_pos_7": "Plaridhel",
+              "west_quarters_pos_8": "Pistolero",
+              "winner": "Pistolero",
+              "score": "6-1"
+            }
+          ],
+          "quartersemi": [
+            {
+              "west_quartersemi_pos_1": "Goriong Talas",
+              "west_quartersemi_pos_2": "JDee",
+              "winner": "Goriong Talas",
+              "score": "4-3"
+            },
+            {
+              "west_quartersemi_pos_3": "Castillo",
+              "west_quartersemi_pos_4": "Pistolero",
+              "winner": "Pistolero",
+              "score": "7-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "west_semifinal_pos_1": "Goriong Talas",
+              "west_semifinal_pos_2": "Pistolero",
+              "winner": "Pistolero",
+              "score": "7-0"
+            }
+          ]
+        },
+        "east": {
+          "quarters": [
+            {
+              "east_quarters_pos_1": "Zaito",
+              "east_quarters_pos_2": "Luxuria",
+              "winner": "Luxuria",
+              "score": "6-1"
+            },
+            {
+              "east_quarters_pos_3": "C-Quence",
+              "east_quarters_pos_4": "Harlem",
+              "winner": "Harlem",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_5": "Poison13",
+              "east_quarters_pos_6": "SlockOne",
+              "winner": "Poison13",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_7": "Zend Luke",
+              "east_quarters_pos_8": "Elbiz",
+              "winner": "Elbiz",
+              "score": "5-2"
+            }
+          ],
+          "quartersemi": [
+            {
+              "east_quartersemi_pos_1": "Luxuria",
+              "east_quartersemi_pos_2": "Harlem",
+              "winner": "Luxuria",
+              "score": "7-0"
+            },
+            {
+              "east_quartersemi_pos_3": "Poison13",
+              "east_quartersemi_pos_4": "Elbiz",
+              "winner": "Poison13",
+              "score": "7-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "east_semifinal_pos_1": "Luxuria",
+              "east_semifinal_pos_2": "Poison13",
+              "winner": "Luxuria",
+              "score": "6-1"
+            }
+          ]
+        },
+        "finals": [
+          {
+            "west_finalist": "Pistolero",
+            "east_finalist": "Luxuria",
+            "winner": "Pistolero",
+            "score": "7-0"
+          }
+        ]
+      }
+    },
+    {
+      "tournament_name": "Isabuhay 2023",
+      "year": "2023",
+      "champion": "Invictus",
+      "total_participants": 16,
+      "brackets": {
+        "west": {
+          "quarters": [
+            {
+              "west_quarters_pos_1": "Sak Maestro",
+              "west_quarters_pos_2": "Asser",
+              "winner": "Sak Maestro",
+              "score": "4-1"
+            },
+            {
+              "west_quarters_pos_3": "Hazky",
+              "west_quarters_pos_4": "C-Quence",
+              "winner": "Hazky",
+              "score": "3-2"
+            },
+            {
+              "west_quarters_pos_5": "Plaridhel",
+              "west_quarters_pos_6": "Bagsik",
+              "winner": "Plaridhel",
+              "score": "6-1"
+            },
+            {
+              "west_quarters_pos_7": "Prince Rhyme",
+              "west_quarters_pos_8": "Poison13",
+              "winner": "Poison13",
+              "score": "5-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "west_quartersemi_pos_1": "Sak Maestro",
+              "west_quartersemi_pos_2": "Hazky",
+              "winner": "Hazky",
+              "score": "7-0"
+            },
+            {
+              "west_quartersemi_pos_3": "Plaridhel",
+              "west_quartersemi_pos_4": "Poison13",
+              "winner": "Plaridhel",
+              "score": "5-2"
+            }
+          ],
+          "semifinal": [
+            {
+              "west_semifinal_pos_1": "Hazky",
+              "west_semifinal_pos_2": "Plaridhel",
+              "winner": "Hazky",
+              "score": "5-2"
+            }
+          ]
+        },
+        "east": {
+          "quarters": [
+            {
+              "east_quarters_pos_1": "Zaito",
+              "east_quarters_pos_2": "J-King",
+              "winner": "Zaito",
+              "score": "5-0"
+            },
+            {
+              "east_quarters_pos_3": "Castillo",
+              "east_quarters_pos_4": "JDee",
+              "winner": "JDee",
+              "score": "3-2"
+            },
+            {
+              "east_quarters_pos_5": "G-Clown",
+              "east_quarters_pos_6": "Illtimate",
+              "winner": "Illtimate",
+              "score": "3-2"
+            },
+            {
+              "east_quarters_pos_7": "Sayadd",
+              "east_quarters_pos_8": "Invictus",
+              "winner": "Invictus",
+              "score": "7-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "east_quartersemi_pos_1": "Zaito",
+              "east_quartersemi_pos_2": "JDee",
+              "winner": "JDee",
+              "score": "7-0"
+            },
+            {
+              "east_quartersemi_pos_3": "Illtimate",
+              "east_quartersemi_pos_4": "Invictus",
+              "winner": "Invictus",
+              "score": "7-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "east_semifinal_pos_1": "JDee",
+              "east_semifinal_pos_2": "Invictus",
+              "winner": "Invictus",
+              "score": "5-2"
+            }
+          ]
+        },
+        "finals": [
+          {
+            "west_finalist": "Hazky",
+            "east_finalist": "Invictus",
+            "winner": "Invictus",
+            "score": "7-0"
+          }
+        ]
+      }
+    },
+    {
+      "tournament_name": "Isabuhay 2024",
+      "year": "2024",
+      "champion": "GL",
+      "total_participants": 16,
+      "brackets": {
+        "west": {
+          "quarters": [
+            {
+              "west_quarters_pos_1": "GL",
+              "west_quarters_pos_2": "JDee",
+              "winner": "GL",
+              "score": "7-0"
+            },
+            {
+              "west_quarters_pos_3": "Sur Henyo",
+              "west_quarters_pos_4": "JR Zero",
+              "winner": "Sur Henyo",
+              "score": "7-0"
+            },
+            {
+              "west_quarters_pos_5": "EJ Power",
+              "west_quarters_pos_6": "Poison13",
+              "winner": "EJ Power",
+              "score": "7-0"
+            },
+            {
+              "west_quarters_pos_7": "Romano",
+              "west_quarters_pos_8": "3RDY",
+              "winner": "Romano",
+              "score": "7-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "west_quartersemi_pos_1": "GL",
+              "west_quartersemi_pos_2": "Sur Henyo",
+              "winner": "GL",
+              "score": "7-0"
+            },
+            {
+              "west_quartersemi_pos_3": "EJ Power",
+              "west_quartersemi_pos_4": "Romano",
+              "winner": "EJ Power",
+              "score": "7-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "west_semifinal_pos_1": "GL",
+              "west_semifinal_pos_2": "EJ Power",
+              "winner": "GL",
+              "score": "7-0"
+            }
+          ]
+        },
+        "east": {
+          "quarters": [
+            {
+              "east_quarters_pos_1": "Apoc",
+              "east_quarters_pos_2": "Ruffian",
+              "winner": "Ruffian",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_3": "Class G",
+              "east_quarters_pos_4": "SlockOne",
+              "winner": "SlockOne",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_5": "Marshall Bonifacio",
+              "east_quarters_pos_6": "Vitrum",
+              "winner": "Vitrum",
+              "score": "7-0"
+            },
+            {
+              "east_quarters_pos_7": "G-Clown",
+              "east_quarters_pos_8": "Rapido",
+              "winner": "G-Clown",
+              "score": "6-1"
+            }
+          ],
+          "quartersemi": [
+            {
+              "east_quartersemi_pos_1": "Ruffian",
+              "east_quartersemi_pos_2": "SlockOne",
+              "winner": "SlockOne",
+              "score": "7-0"
+            },
+            {
+              "east_quartersemi_pos_3": "Vitrum",
+              "east_quartersemi_pos_4": "G-Clown",
+              "winner": "Vitrum",
+              "score": "7-0"
+            }
+          ],
+          "semifinal": [
+            {
+              "east_semifinal_pos_1": "SlockOne",
+              "east_semifinal_pos_2": "Vitrum",
+              "winner": "Vitrum",
+              "score": "7-0"
+            }
+          ]
+        },
+        "finals": [
+          {
+            "west_finalist": "GL",
+            "east_finalist": "Vitrum",
+            "winner": "GL",
+            "score": "4-3"
+          }
+        ]
+      }
+    },
+    {
+      "tournament_name": "Isabuhay 2025",
+      "year": "2025",
+      "champion": "",
+      "total_participants": 16,
+      "brackets": {
+        "west": {
+          "quarters": [
+            {
+              "west_quarters_pos_1": "CARLITO",
+              "west_quarters_pos_2": "ARTICLE CLIPTED",
+              "winner": "CARLITO",
+              "score": "3-2"
+            },
+            {
+              "west_quarters_pos_3": "KATANA",
+              "west_quarters_pos_4": "3RDY",
+              "winner": "KATANA",
+              "score": "4-1"
+            },
+            {
+              "west_quarters_pos_5": "ZEND LUKE",
+              "west_quarters_pos_6": "ZAKI",
+              "winner": "ZAKI",
+              "score": "3-2"
+            },
+            {
+              "west_quarters_pos_7": "JONAS",
+              "west_quarters_pos_8": "SAINT ICE",
+              "winner": "SAINT ICE",
+              "score": "3-2"
+            }
+          ],
+          "quartersemi": [
+            {
+              "west_quartersemi_pos_1": "CARLITO",
+              "west_quartersemi_pos_2": "KATANA",
+              "winner": "KATANA",
+              "score": "5-2"
+            },
+            {
+              "west_quartersemi_pos_3": "ZAKI",
+              "west_quartersemi_pos_4": "SAINT ICE",
+              "winner": "SAINT ICE",
+              "score": "4-3"
+            }
+          ],
+          "semifinal": [
+            {
+              "west_semifinal_pos_1": "KATANA",
+              "west_semifinal_pos_2": "SAINT ICE",
+              "winner": "",
+              "score": ""
+            }
+          ]
+        },
+        "east": {
+          "quarters": [
+            {
+              "east_quarters_pos_1": "LHIPKRAM",
+              "east_quarters_pos_2": "AUBREY",
+              "winner": "LHIPKRAM",
+              "score": "3-2"
+            },
+            {
+              "east_quarters_pos_3": "K-RAM",
+              "east_quarters_pos_4": "KENZER",
+              "winner": "K-RAM",
+              "score": "5-0"
+            },
+            {
+              "east_quarters_pos_5": "MANDA BALIW",
+              "east_quarters_pos_6": "BAN",
+              "winner": "BAN",
+              "score": "5-0"
+            },
+            {
+              "east_quarters_pos_7": "CRIPLI",
+              "east_quarters_pos_8": "EMPITHRI",
+              "winner": "CRIPLI",
+              "score": "5-0"
+            }
+          ],
+          "quartersemi": [
+            {
+              "east_quartersemi_pos_1": "LHIPKRAM",
+              "east_quartersemi_pos_2": "K-RAM",
+              "winner": "LHIPKRAM",
+              "score": "5-2"
+            },
+            {
+              "east_quartersemi_pos_3": "BAN",
+              "east_quartersemi_pos_4": "CRIPLI",
+              "winner": "BAN",
+              "score": "4-3"
+            }
+          ],
+          "semifinal": [
+            {
+              "east_semifinal_pos_1": "LHIPKRAM",
+              "east_semifinal_pos_2": "BAN",
+              "winner": "",
+              "score": ""
+            }
+          ]
+        },
+        "finals": [
+          {
+            "west_finalist": "",
+            "east_finalist": "",
+            "winner": "",
+            "score": ""
+          }
+        ]
+      }
+    }
+  ],
+  "version": "5.0",
+  "generated_at": "2025-08-30T16:28:56.567843Z",
+  "description": "Tournament data with standardized West/East bracket positioning"
+}
