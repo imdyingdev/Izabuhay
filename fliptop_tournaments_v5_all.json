@@ -1443,8 +1443,8 @@
             {
               "west_semifinal_pos_1": "KATANA",
               "west_semifinal_pos_2": "SAINT ICE",
-              "winner": "",
-              "score": ""
+              "winner": "KATANA",
+              "score": "7-0"
             }
           ]
         },
@@ -1493,15 +1493,15 @@
             {
               "east_semifinal_pos_1": "LHIPKRAM",
               "east_semifinal_pos_2": "BAN",
-              "winner": "",
-              "score": ""
+              "winner": "LHIPKRAM",
+              "score": "6-1"
             }
           ]
         },
         "finals": [
           {
-            "west_finalist": "",
-            "east_finalist": "",
+            "west_finalist": "KATANA",
+            "east_finalist": "LHIPKRAM",
             "winner": "",
             "score": ""
           }
