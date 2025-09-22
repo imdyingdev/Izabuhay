@@ -2,6 +2,8 @@
 
 A dynamic web application for displaying and analyzing FlipTop Isabuhay Rap Battle League tournament brackets with interactive features and statistical analysis.
 
+**🌐 [View Live Website](https://izabuhay.vercel.app/)**
+
 ## 🏆 Features
 
 - **Interactive Tournament Brackets**: Visual display of tournament matchups and results
@@ -167,7 +169,9 @@ This project is for educational and entertainment purposes related to FlipTop Is
 
 ## 🔗 Links
 
-- [FlipTop Official](https://www.instagram.com/johnrbg_/) - Follow for updates
+- [Live Website](https://izabuhay.vercel.app/) - View the live tournament bracket system
+- [FlipTop Official Instagram](https://www.instagram.com/fliptop/) - Official FlipTop updates
+- [Developer Instagram](https://www.instagram.com/johnrgb_/) - Follow the developer
 - Tournament data and results from official FlipTop events
 
 ---
