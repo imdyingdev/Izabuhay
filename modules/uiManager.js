@@ -205,7 +205,7 @@ class UIManager {
         if (final) {
             const dateSpan = final.querySelector('.date');
             if (dateSpan) {
-                dateSpan.textContent = 'FINALS WIN % (2013-2024)';
+                dateSpan.textContent = 'FINALS WIN % (2013-2025)';
             }
         }
     }
