@@ -1543,14 +1543,14 @@
       ],
       "quartersemi": [
         {
-          "west_quartersemi_pos_1": "",
-          "west_quartersemi_pos_2": "",
+          "west_quartersemi_pos_1": "Shehyee",
+          "west_quartersemi_pos_2": "SlockOne",
           "winner": "",
           "score": ""
         },
         {
-          "west_quartersemi_pos_3": "",
-          "west_quartersemi_pos_4": "",
+          "west_quartersemi_pos_3": "Keelan",
+          "west_quartersemi_pos_4": "Ruffian",
           "winner": "",
           "score": ""
         }
@@ -1593,14 +1593,14 @@
       ],
       "quartersemi": [
         {
-          "east_quartersemi_pos_1": "",
-          "east_quartersemi_pos_2": "",
+          "east_quartersemi_pos_1": "Poison13",
+          "east_quartersemi_pos_2": "Yuniko",
           "winner": "",
           "score": ""
         },
         {
-          "east_quartersemi_pos_3": "",
-          "east_quartersemi_pos_4": "",
+          "east_quartersemi_pos_3": "Manda Baliw",
+          "east_quartersemi_pos_4": "Sak Maestro",
           "winner": "",
           "score": ""
         }
