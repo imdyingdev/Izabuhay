@@ -1507,7 +1507,123 @@
           }
         ]
       }
-    }
+    },
+    {
+  "tournament_name": "Isabuhay 2026",
+  "year": "2026",
+  "champion": "",
+  "total_participants": 16,
+  "brackets": {
+    "west": {
+      "quarters": [
+        {
+          "west_quarters_pos_1": "Shehyee",
+          "west_quarters_pos_2": "Bagsik",
+          "winner": "",
+          "score": ""
+        },
+        {
+          "west_quarters_pos_3": "SlockOne",
+          "west_quarters_pos_4": "Kregga",
+          "winner": "",
+          "score": ""
+        },
+        {
+          "west_quarters_pos_5": "Frooz",
+          "west_quarters_pos_6": "Keelan",
+          "winner": "",
+          "score": ""
+        },
+        {
+          "west_quarters_pos_7": "Ruffian",
+          "west_quarters_pos_8": "Goriong Talas",
+          "winner": "",
+          "score": ""
+        }
+      ],
+      "quartersemi": [
+        {
+          "west_quartersemi_pos_1": "",
+          "west_quartersemi_pos_2": "",
+          "winner": "",
+          "score": ""
+        },
+        {
+          "west_quartersemi_pos_3": "",
+          "west_quartersemi_pos_4": "",
+          "winner": "",
+          "score": ""
+        }
+      ],
+      "semifinal": [
+        {
+          "west_semifinal_pos_1": "",
+          "west_semifinal_pos_2": "",
+          "winner": "",
+          "score": ""
+        }
+      ]
+    },
+    "east": {
+      "quarters": [
+        {
+          "east_quarters_pos_1": "Poison13",
+          "east_quarters_pos_2": "Sensei",
+          "winner": "",
+          "score": ""
+        },
+        {
+          "east_quarters_pos_3": "G-Clown",
+          "east_quarters_pos_4": "Yuniko",
+          "winner": "",
+          "score": ""
+        },
+        {
+          "east_quarters_pos_5": "Manda Baliw",
+          "east_quarters_pos_6": "Harlem",
+          "winner": "",
+          "score": ""
+        },
+        {
+          "east_quarters_pos_7": "Shaboy",
+          "east_quarters_pos_8": "Sak Maestro",
+          "winner": "",
+          "score": ""
+        }
+      ],
+      "quartersemi": [
+        {
+          "east_quartersemi_pos_1": "",
+          "east_quartersemi_pos_2": "",
+          "winner": "",
+          "score": ""
+        },
+        {
+          "east_quartersemi_pos_3": "",
+          "east_quartersemi_pos_4": "",
+          "winner": "",
+          "score": ""
+        }
+      ],
+      "semifinal": [
+        {
+          "east_semifinal_pos_1": "",
+          "east_semifinal_pos_2": "",
+          "winner": "",
+          "score": ""
+        }
+      ]
+    },
+    "finals": [
+      {
+        "west_finalist": "",
+        "east_finalist": "",
+        "winner": "",
+        "score": ""
+      }
+    ]
+  }
+}
   ],
   "version": "5.0",
   "generated_at": "2025-08-30T16:28:56.567843Z",
