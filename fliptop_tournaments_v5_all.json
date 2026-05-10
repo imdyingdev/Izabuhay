@@ -1525,14 +1525,14 @@
         {
           "west_quarters_pos_3": "SlockOne",
           "west_quarters_pos_4": "Kregga",
-          "winner": "5-0",
-          "score": "SlockOne"
+          "winner": "SlockOne",
+          "score": "5-0"
         },
         {
           "west_quarters_pos_5": "Frooz",
           "west_quarters_pos_6": "Keelan",
-          "winner": "1-4",
-          "score": "Keelan"
+          "winner": "Keelan",
+          "score": "1-4"
         },
         {
           "west_quarters_pos_7": "Ruffian",
