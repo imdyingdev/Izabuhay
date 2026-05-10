@@ -1519,26 +1519,26 @@
         {
           "west_quarters_pos_1": "Shehyee",
           "west_quarters_pos_2": "Bagsik",
-          "winner": "",
-          "score": ""
+          "winner": "Shehyee",
+          "score": "5-0"
         },
         {
           "west_quarters_pos_3": "SlockOne",
           "west_quarters_pos_4": "Kregga",
-          "winner": "",
-          "score": ""
+          "winner": "5-0",
+          "score": "SlockOne"
         },
         {
           "west_quarters_pos_5": "Frooz",
           "west_quarters_pos_6": "Keelan",
-          "winner": "",
-          "score": ""
+          "winner": "1-4",
+          "score": "Keelan"
         },
         {
           "west_quarters_pos_7": "Ruffian",
           "west_quarters_pos_8": "Goriong Talas",
-          "winner": "",
-          "score": ""
+          "winner": "Ruffian",
+          "score": "5-0"
         }
       ],
       "quartersemi": [
@@ -1569,26 +1569,26 @@
         {
           "east_quarters_pos_1": "Poison13",
           "east_quarters_pos_2": "Sensei",
-          "winner": "",
-          "score": ""
+          "winner": "Poison13",
+          "score": "4-1"
         },
         {
           "east_quarters_pos_3": "G-Clown",
           "east_quarters_pos_4": "Yuniko",
-          "winner": "",
-          "score": ""
+          "winner": "Yuniko",
+          "score": "0-5"
         },
         {
           "east_quarters_pos_5": "Manda Baliw",
           "east_quarters_pos_6": "Harlem",
-          "winner": "",
-          "score": ""
+          "winner": "Manda Baliw",
+          "score": "0-5"
         },
         {
           "east_quarters_pos_7": "Shaboy",
           "east_quarters_pos_8": "Sak Maestro",
-          "winner": "",
-          "score": ""
+          "winner": "Sak Maestro",
+          "score": "0-5"
         }
       ],
       "quartersemi": [
